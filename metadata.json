@@ -1,0 +1,6 @@
+{
+  "name": "Vidhya Portal - Instructor Dashboard",
+  "description": "Comprehensive academic instructor workspace for publishing video lectures, managing course curriculum, generating AI quizzes, hosting live doubt sessions, and sharing revision notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
